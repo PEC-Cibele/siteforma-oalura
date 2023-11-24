@@ -37,16 +37,18 @@
     height: 60px;
     padding: 12px 0;
 }
-.curso{
+.curso {
     background-image: linear-gradient(#51025a, #e85cda64);
-    color:white;
+    color: white;
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 24px 0;
-    }
-    .curso-div-conteudo{
+}
+
+.curso-div-conteudo {
     width: 35%;
-    }
-    .curso-titulo{
+}
+
+.curso-titulo {
     padding: 24px 0;
